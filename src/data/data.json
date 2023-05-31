@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "img": "/images/pizza.jpg",
+    "category": "pizzas",
+    "price": 230,
+    "stock": 7
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti",
+    "img": "/images/spaghetti.jpg",
+    "category": "pastas",
+    "price": 150,
+    "stock": 4
+  },
+  {
+    "id": 3,
+    "name": "Asado",
+    "img": "/images/asado.jpg",
+    "category": "carnes",
+    "price": 350,
+    "stock": 4
+  },
+  {
+    "id": 4,
+    "name": "Ensalada César",
+    "img": "/images/ensalada-cesar.jpg",
+    "category": "ensaladas",
+    "price": 120,
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "Hamburguesa",
+    "img": "/images/hamburguesa.jpg",
+    "category": "hamburguesas",
+    "price": 180,
+    "stock": 5
+  },
+  {
+    "id": 6,
+    "name": "Tacos",
+    "img": "/images/tacos.jpg",
+    "category": "comida mexicana",
+    "price": 200,
+    "stock": 3
+  }
+]
